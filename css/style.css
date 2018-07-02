@@ -1,0 +1,36 @@
+.gif-btns {
+    margin: 10px;
+}
+
+.gif-divs {
+    margin: 15px;
+    float: left;
+}
+
+#topic-input {
+    text-align: right;
+    margin-top: 15px;;
+}
+
+#add-replace-radio-btns {
+    float: left;
+    margin-top: 10px;
+}
+
+#submit-btn {
+    margin-top: 5px;
+    float: right;
+}
+
+#btns-box {
+    margin-top: 5px;
+}
+
+#add-gifs {
+    margin-right: 5px;
+}
+
+#replace-gifs {
+    margin-left: 5px;
+    margin: 0px 5px;
+}
